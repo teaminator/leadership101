@@ -6,7 +6,7 @@ To get the most stuff done, you have to work with others. As a leader, you know 
 
 ## Effective communication
 * [Active listening](https://www.fastcompany.com/90372821/how-i-learned-to-be-better-at-active-listening-as-a-manager)
-* [Ladder of inference](https://www.extension.harvard.edu/professional-development/blog/solving-problem-problem-solving-meetings)
+* [Ladder of inference](https://www.pon.harvard.edu/daily/negotiation-skills-daily/the-ladder-of-inference-a-resource-list/)
 * [Advocacy and inquiry](https://www.workfront.com/blog/inquiry-advocacy-matrix)
 * [Communication complexity and team size](https://dev.to/lpasqualis/the-stages-of-teamwork-complexity-ce8)
 
